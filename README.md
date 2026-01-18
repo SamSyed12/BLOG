@@ -1,2 +1,2 @@
 # BLOG
-blog for lab2
+blog for Lab2
